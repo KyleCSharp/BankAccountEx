@@ -1,0 +1,14 @@
+C:\Users\kylel\repos\EncapsulationEx1\EncapsulationEx1\bin\Debug\netcoreapp3.1\EncapsulationEx1.exe
+C:\Users\kylel\repos\EncapsulationEx1\EncapsulationEx1\bin\Debug\netcoreapp3.1\EncapsulationEx1.deps.json
+C:\Users\kylel\repos\EncapsulationEx1\EncapsulationEx1\bin\Debug\netcoreapp3.1\EncapsulationEx1.runtimeconfig.json
+C:\Users\kylel\repos\EncapsulationEx1\EncapsulationEx1\bin\Debug\netcoreapp3.1\EncapsulationEx1.runtimeconfig.dev.json
+C:\Users\kylel\repos\EncapsulationEx1\EncapsulationEx1\bin\Debug\netcoreapp3.1\EncapsulationEx1.dll
+C:\Users\kylel\repos\EncapsulationEx1\EncapsulationEx1\bin\Debug\netcoreapp3.1\EncapsulationEx1.pdb
+C:\Users\kylel\repos\EncapsulationEx1\EncapsulationEx1\obj\Debug\netcoreapp3.1\EncapsulationEx1.csproj.AssemblyReference.cache
+C:\Users\kylel\repos\EncapsulationEx1\EncapsulationEx1\obj\Debug\netcoreapp3.1\EncapsulationEx1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kylel\repos\EncapsulationEx1\EncapsulationEx1\obj\Debug\netcoreapp3.1\EncapsulationEx1.AssemblyInfoInputs.cache
+C:\Users\kylel\repos\EncapsulationEx1\EncapsulationEx1\obj\Debug\netcoreapp3.1\EncapsulationEx1.AssemblyInfo.cs
+C:\Users\kylel\repos\EncapsulationEx1\EncapsulationEx1\obj\Debug\netcoreapp3.1\EncapsulationEx1.csproj.CoreCompileInputs.cache
+C:\Users\kylel\repos\EncapsulationEx1\EncapsulationEx1\obj\Debug\netcoreapp3.1\EncapsulationEx1.dll
+C:\Users\kylel\repos\EncapsulationEx1\EncapsulationEx1\obj\Debug\netcoreapp3.1\EncapsulationEx1.pdb
+C:\Users\kylel\repos\EncapsulationEx1\EncapsulationEx1\obj\Debug\netcoreapp3.1\EncapsulationEx1.genruntimeconfig.cache
